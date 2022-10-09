@@ -1,0 +1,29 @@
+body {
+    background-color: #444;
+}
+img{
+    width: 70%;
+}
+
+.emp{
+    width: 25%;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+
+p{
+    color: aliceblue;
+    padding: 5%;
+}
+.text-muted {
+    color: #6c757d!important;
+    text-align: center!important;
+}
+label{
+    color: aliceblue;
+}
+  .card-text{
+    color: #444 !important;
+}
